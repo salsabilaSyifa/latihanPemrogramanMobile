@@ -1,5 +1,3 @@
-import kotlin.math.roundToInt
-
 class Barang(val nama: String="nama", var harga: Double=999999.999, var jumlah: Int=99, var diskon: Double =99999.99){
     val namaBrg: String
     val hargaBrg: Double
